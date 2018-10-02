@@ -23,3 +23,6 @@ Stats figures
 
 Benefits of Engineering intervension
 <img src=https://github.com/muyang/frm/blob/master/B_engineer_bus2.png>
+
+Spatial Global UA/SA
+<img src=https://github.com/muyang/frm/blob/master/figure_1pop_high.PNG>
