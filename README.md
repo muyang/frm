@@ -16,4 +16,9 @@ flood event through two case studies of Changsha city in south-central China
 ## Software: NetLogo and java (GIS extension), python, java, R ...
 
 # Outputs
+
+Stats figures
+<img https://github.com/muyang/frm/blob/master/affected%20bus2.PNG>
+
+Benefits of Engineering intervension
 <img src=https://github.com/muyang/frm/blob/master/B_engineer_bus2.png>
