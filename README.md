@@ -18,7 +18,8 @@ flood event through two case studies of Changsha city in south-central China
 # Outputs
 
 Stats figures
-<img https://github.com/muyang/frm/blob/master/affected%20bus2.PNG>
+<img src=https://github.com/muyang/frm/blob/master/affected%20bus2.PNG>
+<img src=https://github.com/muyang/frm/blob/master/dynamic_vehicles.png>
 
 Benefits of Engineering intervension
 <img src=https://github.com/muyang/frm/blob/master/B_engineer_bus2.png>
