@@ -1,6 +1,6 @@
 # Flood Risk Management (FRM)
 
-# Introduction
+## Introduction
 Climate change induces the probability of occurring natural disasters; e.g.
 floods, Sea Level Rise, Green House Gases. Flood is considered one of the
 most dangerous phenomena that tremendously and dramatically threatening
@@ -11,11 +11,11 @@ The main objective of this project is to investigate the flood risk
 analysis and assessment based on flood simulation and adaptive strategies for
 flood event through two case studies of Changsha city in south-central China
 
-# Methods and Software
-## Methods: MCA, UA/SA, CA, ABM ...
-## Software: ArcGIS, ERDAS, NetLogo and java (GIS extension), python, java, R ...
+## Methods and Software
+### Methods: MCA, UA/SA, CA, ABM ...
+### Software: ArcGIS, ERDAS, NetLogo and java (GIS extension), python, java, R ...
 
-# Outputs
+## Outputs
 
 Stats figures
 <img src=https://github.com/muyang/frm/blob/master/affected%20bus2.PNG>
@@ -26,3 +26,8 @@ Benefits of Engineering intervension
 
 Spatial Global UA/SA
 <img src=https://github.com/muyang/frm/blob/master/figure_1pop_high.PNG>
+
+## References
+Mu Yang, Nguyen Xuan Thinh (2016) Storm Flood Simulation and Flood Risk Management. “Modellierung und Simulation von Ökosystemen" in Kölpinsee / Usedom 2015.
+
+Mu Yang, Nguyen Xuan Thinh (2013) Precipitation-Runoff Simulation Based on Distributed Hydrological Model: Case Study for Changsha City. “Modellierung und Simulation von Ökosystemen" In Kölpinsee / Usedom 2013.
